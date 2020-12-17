@@ -1,4 +1,4 @@
-public class code {
+public class SpellingNumbers {
     public static void main(String[] a) {
         for(String s : a) {
             int i = Integer.parseInt(s);

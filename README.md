@@ -1,5 +1,5 @@
 # Code Golf Challanges
-My personal code golf challange entries
+My personal code golf challenge entries
 
 - Every game has it's own folder
 - Every game is explained in a `README.md` file

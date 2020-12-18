@@ -11,3 +11,18 @@ My personal code golf challenge entries
 ## Game Sources
 - https://code.golf/
 - https://codegolf.stackexchange.com/
+
+## Challenges
+
+Challenge            | Java 
+:--------------------| :------------------|
+12 Days of Christmas | :white_check_mark:
+99 Bottles of Beer   | :white_check_mark:
+Abundant Numbers     | :white_check_mark:
+Spelling Numbers     | :white_check_mark:
+Fizz Buzz            | :white_check_mark:
+Leyland Numbers      | :pencil2:
+....                 | 
+..                   | 
+
+https://code.golf/random

@@ -25,6 +25,7 @@ Leyland Numbers      | :white_check_mark:
 Niven Numbers        | :pencil2:
 Look and Say         | :pencil2:
 Leap Years           | :white_check_mark:
+Tongue-twisters      | :white_check_mark:
 ....                 | 
 ..                   | 
 

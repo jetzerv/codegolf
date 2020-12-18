@@ -1,4 +1,4 @@
-# Code Golf Challanges
+# Code Golf Challenges
 My personal code golf challenge entries
 
 - Every game has it's own folder
@@ -26,6 +26,10 @@ Niven Numbers        | :pencil2:
 Look and Say         | :pencil2:
 Leap Years           | :white_check_mark:
 Tongue-twisters      | :white_check_mark:
+Prime Numbers        | :pencil2:
+Sierpiński Triangle  | :pencil2:
+Fibonacci            | :pencil2:
+Pangram Grep         | :pencil2:
 ....                 | 
 ..                   | 
 

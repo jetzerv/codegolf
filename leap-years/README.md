@@ -1,4 +1,4 @@
-# Code Golf Challange :: Leap Years
+# Code Golf Challenge :: Leap Years
 ```
 In the Gregorian calendar, a leap year is created by extending February to 29 days in order to keep the calendar year synchronized with the astronomical year. These longer years occur in years which are multiples of 4, with the exception of centennial years that aren’t multiples of 400.
 

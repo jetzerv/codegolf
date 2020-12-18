@@ -1,4 +1,4 @@
-# Code Golf Challange :: Leyland Numbers
+# Code Golf Challenge :: Leyland Numbers
 
 ```
 A leyland number is of the form xy + yx where 1 < y ≤ x.

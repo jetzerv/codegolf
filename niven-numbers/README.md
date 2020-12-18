@@ -1,4 +1,4 @@
-# Code Golf Challange :: Niven Numbers
+# Code Golf Challenge :: Niven Numbers
 
 ```
 A niven number is a non-negative number that is divisible by the sum of its digits.

@@ -1,4 +1,4 @@
-# Code Golf Challange :: 12 Days of Christmas
+# Code Golf Challenge :: 12 Days of Christmas
 ```
 Print the lyrics to the song The 12 Days of Christmas:
 

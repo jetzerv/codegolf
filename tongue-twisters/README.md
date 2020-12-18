@@ -1,4 +1,4 @@
-# Code Golf Challange :: Tongue-twisters
+# Code Golf Challenge :: Tongue-twisters
 ```
 Output the following tongue twisters with a blank line between each one:
 

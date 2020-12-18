@@ -1,4 +1,4 @@
-# Code Golf Challange :: 99 Bottles of Beer
+# Code Golf Challenge :: 99 Bottles of Beer
 ```
 Print the lyrics to the song 99 Bottles of Beer:
 

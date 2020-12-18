@@ -1,4 +1,4 @@
-# Code Golf Challange :: Fizz Buzz
+# Code Golf Challenge :: Fizz Buzz
 ```
 Print the numbers from 1 to 100 inclusive, each on their own line.
 

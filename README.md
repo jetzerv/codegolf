@@ -21,7 +21,7 @@ Challenge            | Java
 Abundant Numbers     | :white_check_mark:
 Spelling Numbers     | :white_check_mark:
 Fizz Buzz            | :white_check_mark:
-Leyland Numbers      | :pencil2:
+Leyland Numbers      | :white_check_mark:
 Niven Numbers        | :pencil2:
 Look and Say         | :pencil2:
 ....                 | 

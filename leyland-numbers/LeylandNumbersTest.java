@@ -7,7 +7,7 @@ public class LeylandNumbersTest extends AbstractPrintlnTest {
     @Test
     @DisplayName("Normal Code")
     public void testNormal() {
-        //LaylandNumbers.main(new String[]{});
+        LeylandNumbers.main(new String[]{});
         assertPrintlnWith(getExpectedData());
     }
 

@@ -22,6 +22,8 @@ Abundant Numbers     | :white_check_mark:
 Spelling Numbers     | :white_check_mark:
 Fizz Buzz            | :white_check_mark:
 Leyland Numbers      | :pencil2:
+Niven Numbers        | :pencil2:
+Look and Say         | :pencil2:
 ....                 | 
 ..                   | 
 

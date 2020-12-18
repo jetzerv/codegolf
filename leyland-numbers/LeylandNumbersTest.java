@@ -14,7 +14,7 @@ public class LeylandNumbersTest extends AbstractPrintlnTest {
     @Test
     @DisplayName("Minified Code")
     public void testMinified() {
-        //L.main(new String[]{});
+        L.main(new String[]{});
         assertPrintlnWith(getExpectedData());
     }
 

@@ -28,7 +28,7 @@ Leap Years           | :white_check_mark:
 Tongue-twisters      | :white_check_mark:
 Prime Numbers        | :pencil2:
 Sierpiński Triangle  | :pencil2:
-Fibonacci            | :pencil2:
+Fibonacci            | :white_check_mark:
 Pangram Grep         | :pencil2:
 ....                 | 
 ..                   | 

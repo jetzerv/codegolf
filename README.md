@@ -22,11 +22,11 @@ Abundant Numbers     | :white_check_mark:
 Spelling Numbers     | :white_check_mark:
 Fizz Buzz            | :white_check_mark:
 Leyland Numbers      | :white_check_mark:
-Niven Numbers        | :pencil2:
-Look and Say         | :pencil2:
+Niven Numbers        | :white_check_mark:
+Look and Say         | :white_check_mark:
 Leap Years           | :white_check_mark:
 Tongue-twisters      | :white_check_mark:
-Prime Numbers        | :pencil2:
+Prime Numbers        | :white_check_mark:
 Sierpiński Triangle  | :pencil2:
 Fibonacci            | :white_check_mark:
 Pangram Grep         | :pencil2:

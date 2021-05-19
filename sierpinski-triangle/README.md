@@ -23,6 +23,6 @@ A Sierpiński triangle of order 4 should look like this, print such an output:
 ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
 ```
 
-source: https://code.golf/sierpi%c5%84ski-triangle#java
+    source: https://code.golf/sierpi%c5%84ski-triangle#java
 
 The #1 needed 113 chars

@@ -14,7 +14,7 @@ public class NivenNumbersTest extends AbstractPrintlnTest {
     @Test
     @DisplayName("Minified Code")
     public void testMinified() {
-        //N.main(new String[]{});
+        N.main(new String[]{});
         assertPrintlnWith(getExpectedData());
     }
 
